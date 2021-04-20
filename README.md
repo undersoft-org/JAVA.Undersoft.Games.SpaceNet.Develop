@@ -1,2 +1,2 @@
 # JAVA.Undersoft.Games.SpaceNet.Devel
-Development version of Android 2D game demo. Explore space in your ship controlled by gyroscope and accelerometers , effect of inertia similar to vintage game Asteroids.  
+Development version of Android 2D game demo. Explore galaxy, visit planets, shoot and collect resources to upgrade your spaceship controlled via angular accelerometr in your device. Effect of inertia inspired by vintage game Asteroids.  
